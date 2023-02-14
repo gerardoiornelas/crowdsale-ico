@@ -4,7 +4,7 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `Web3 Template`,
+    title: `Crowdsale ICO`,
     description: `Gatsby, Hardhat, and MUI template`,
     author: `@gerardoiornelas`,
     siteUrl: `https://www.gerardoiornelas.com/`,
